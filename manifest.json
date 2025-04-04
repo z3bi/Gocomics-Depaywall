@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Gocomics Depaywall",
+    "version": "1.0",
+  
+    "description": "Bypasses the Gocomics Paywall and Removes Ads",
+  
+    "icons": {
+      "48": "icons/icon48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.gocomics.com/*"],
+        "js": ["gocomics.js"]
+      }
+    ]
+}
+  
