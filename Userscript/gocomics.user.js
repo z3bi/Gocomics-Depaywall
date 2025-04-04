@@ -11,8 +11,8 @@
 // @compatible  opera
 // @compatible  safari
 // @compatible  edge
-// @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/Gocomics Depaywall.js
-// @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/Gocomics Depaywall.js
+// @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
+// @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
 // ==/UserScript==
 
 // Set overflow to auto to allow scroll
