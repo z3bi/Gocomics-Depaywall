@@ -4,7 +4,7 @@
 // @icon        https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Extension/icons/icon48.png
 // @match       *://*.gocomics.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Idiot01
 // @compatible  chrome
 // @compatible  firefox
@@ -13,6 +13,7 @@
 // @compatible  edge
 // @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
 // @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
+// @run-at      document-start
 // ==/UserScript==
 
 // Set overflow to auto to allow scroll
