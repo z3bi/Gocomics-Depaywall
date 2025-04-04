@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name        Gocomics Depaywall
 // @description Bypasses the Gocomics Paywall and Removes Ads
-// @namespace   Violentmonkey Scripts
+// @icon        https://github.com/Idiot-01/Gocomics-Depaywall/blob/master/Extension/icons/icon48.png
 // @match       *://*.gocomics.com/*
 // @grant       none
 // @version     1.0
 // @author      Idiot01
-// @description 4/4/2025
+// @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/blob/master/Userscript/Gocomics Depaywall.js
+// @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/blob/master/Userscript/Gocomics Depaywall.js
 // ==/UserScript==
 
 // Set overflow to auto to allow scroll
