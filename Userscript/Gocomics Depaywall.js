@@ -6,6 +6,11 @@
 // @grant       none
 // @version     1.0
 // @author      Idiot01
+// @compatible  chrome
+// @compatible  firefox
+// @compatible  opera
+// @compatible  safari
+// @compatible  edge
 // @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/Gocomics Depaywall.js
 // @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/Gocomics Depaywall.js
 // ==/UserScript==
