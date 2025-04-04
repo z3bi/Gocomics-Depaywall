@@ -13,7 +13,7 @@
 // @compatible  edge
 // @downloadURL https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
 // @updateURL   https://github.com/Idiot-01/Gocomics-Depaywall/raw/master/Userscript/gocomics.user.js
-// @run-at      document-start
+// @run-at      document-end
 // ==/UserScript==
 
 // Set overflow to auto to allow scroll
