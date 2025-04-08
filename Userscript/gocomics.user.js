@@ -31,6 +31,7 @@
   // gets ad and softpaywall <div> elements and hides them
   const observer = new MutationObserver(() => {
       document.querySelectorAll('div[class*="AdDisplay"], div[class*="HeaderAd"], div[class*="Upsell"]').forEach(el => el.style.display = "none");
+      document.querySelector('img[class*="Comic_comic__image_strip]').setAttribute('style', 'min-width: 900px;')
   });
   observer.observe(document.body, {childList: true, subtree: true});
   
